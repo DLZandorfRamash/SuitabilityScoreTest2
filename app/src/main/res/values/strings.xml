@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SuitabilityScoreTest</string>
+    <string name="no_drivers_found">No more drivers found.</string>
+    <string name="no_shipment_found">No more shipment addresses found.</string>
+    <string name="no_results_found">No results found yet.</string>
+    <string name="no_driver_selected">- No driver selected. -</string>
+    <string name="no_shipment_selected">- No shipment selected. - </string>
+    <string name="suitability_no">Suitability Score: %1$s</string>
+    <string name="confirm_selection">Confirm Selection</string>
+</resources>
